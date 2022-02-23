@@ -1,0 +1,91 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins',sans-serif;
+	overflow-x: hidden;
+}
+.career1{
+	text-decoration-color: white;
+	background: linear-gradient(to 
+		bottom,
+		 black 0%,
+		 black 65%,
+		 white 65%,
+		 white 100%
+		);
+	height: 100vh;
+}
+.career1 h1{
+	font-size: 80px;
+	padding-top: 180px;
+	color: white;
+	text-align: center;
+}
+.career1 p{
+	color: black;
+	font-size: 20px;
+	border-style: hidden ;
+	border-radius: 13px;
+	margin: 150px 300px;
+	padding: 30px;
+	background: whitesmoke;
+}
+.b5{
+	writing-mode: vertical-rl;
+	transform: rotateZ(180deg);
+	color: goldenrod;
+	margin-top: -25%;
+	font-size: x-large;
+	margin-left: 0;
+	position: fixed;
+
+}
+.Careers{
+	text-decoration: none;
+ display:flex;
+ column-gap: 60px;
+ margin: -300px 90px 30px 90px;
+}
+.Career2 a img{
+	padding-bottom: 45px;
+	padding-left: 25px;
+	width: 600px;
+	height: 300px;
+	}
+.Career2  :hover{
+	transform: translateY(-11px);
+	transition: 0.6s;
+}
+.Career2 a{
+	text-decoration: none;
+}
+.Career2 figcaption{
+	text-align: center;
+	font-style: italic;
+	font-size: 25px;
+	color: black;
+}
+.Career2 figcaption:hover{
+	color: mediumblue;
+}
+.Career3:hover{
+	transform: translateY(-11px);
+	transition: 0.6s;
+}
+.Career3 a img{
+width: 600px;
+	height: 300px;	
+}
+.Career3 a{
+	text-decoration: none;
+}
+.Career3 figcaption{
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	font-size: 25px;
+	font-style: italic;
+}
+.Career3 figcaption:hover{
+	color: mediumblue;
+}

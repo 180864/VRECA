@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family:'Poppins',sans-serif;
+	overflow-x: hidden;
+}
+.IT h1{
+	text-align: center;
+	color: indianred;
+	margin: 100px;
+	font-size: 60px;
+}
+.Consultant{
+	border-radius: 10px;
+	margin: 100px 300px;
+	line-height: 60px;
+	background: white;
+	font-size: 20px;
+	font-style: italic;
+	padding: 100px 80px;
+}
+.Consultant a{
+	color: orangered;
+}
+
